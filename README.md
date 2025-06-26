@@ -14,3 +14,6 @@ Steady Inventory is a Laravel-based inventory management system. This README pro
    ```bash
    git clone https://github.com/mamoonbgc036/steady-inventory.git
    cd steady-inventory
+1. **Install packages dependencies:**
+   ```bash
+   composer install
