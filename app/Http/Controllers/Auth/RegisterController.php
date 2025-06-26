@@ -23,9 +23,7 @@ class RegisterController extends Controller
             $user_details['image'] = $file_path;
         }
         $user = User::create($user_details);
-        //Creates a Session for the user and log the user in the system without login
         $logedUser = Auth::login($user);
-
 
         return redirect()->route('products.index');
     }
