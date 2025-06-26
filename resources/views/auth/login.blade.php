@@ -2,8 +2,9 @@
 @section('content')
 <div class="col-md-8 ps-md-0">
     <div class="auth-form-wrapper px-4 py-5">
-        <a href="#" class="noble-ui-logo logo-light d-block mb-2">Steadfast Limited</a>
-        <h4>Inventory Management System</h4>
+        <a href="#" class="noble-ui-logo logo-light d-block mb-2">Inventory Management System</a>
+        <p>Email : mamoon@admin.com</p>
+        <p>Pass: 1111</p>
         <h5 class="text-warning fw-normal mb-4">
             Admin Login
         </h5>
