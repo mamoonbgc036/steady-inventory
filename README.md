@@ -8,6 +8,7 @@ Steady Inventory is a Laravel-based inventory management system. This README pro
 ```
 Email: mamoon@admin.com
 pass:1111
+```
 
 ## 🛠 Requirements
 
