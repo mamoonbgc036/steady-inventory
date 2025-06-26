@@ -27,6 +27,6 @@ class RegisterController extends Controller
         $logedUser = Auth::login($user);
 
 
-        return redirect()->route('dashboard');
+        return redirect()->route('products.index');
     }
 }
